@@ -2,7 +2,7 @@
 <br>
 
 <!--
-**Charmve/Charmve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cryboy007/cryboy007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
+  <a href="https://github.com/cryboy007" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=cryboy007&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=cryboy007&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
